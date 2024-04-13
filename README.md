@@ -29,8 +29,8 @@ Step 7: Save and run the application.
  ```
 
 Program to create and design an android application for draw basic graphical primitives.
-Developed by:    HARSHITHA V
-RegisterNumber:  212223230074
+Developed by:    MALLIGESH M
+RegisterNumber:  212223230119
 
 ```
 
@@ -130,8 +130,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 
+![image](https://github.com/malligesh309/EX_7_GRAPHICAL_GIT/assets/140491043/d6a6f9c1-920c-4193-b4d4-479c8d1bb74d)
 
-![image](https://github.com/harshi1111/EX_7_GRAPHICAL_GIT/assets/84671735/0bc2c4fb-fad2-4da7-ba78-3e320748cf28)
 
 ## Result:
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives on the screen using Android Studio was developed and executed successfully.
